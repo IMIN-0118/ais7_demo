@@ -20,3 +20,5 @@
 * Streamlit 배포 실습
 * 데이터프레임 보여주기
 * 시각화 하기
+
+<img src="https://post-phinf.pstatic.net/MjAxOTA4MjBfMTA0/MDAxNTY2MjcxOTgzMjg0.O15yROl4ikRnIm691GLJOvxoOlyRKcWA72hzaDuJ3B0g.aEneHfxuMwCkbhP4V6OoOXVNN0WyyllnNoisXX7tKpQg.GIF/%ED%99%94%EC%9A%94%EC%9D%BC.gif?type=w1200">
